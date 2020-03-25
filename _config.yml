@@ -1,7 +1,8 @@
 title: Samkim's blog 
 author: Samkimpepper # Your name 
 email: vegielcl@gmail.com # your email shown in the footer
-url: "https://samkimpepper.github.io/" # this is your site's root address.
+baseurl: ""
+url: "https://samkimpepper.github.io" # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   개발 공부 로그 
 favicon: "./favicon.ico" # set the favicon of the site 
